@@ -1,5 +1,5 @@
 # ImageProcessing
-Image processing program for .tga files that performs Photoshop blending modes
+Image processing program for .tga files that performs Photoshop blending modes on images
 
 Combining color channels
 ------------------------
